@@ -1,3 +1,5 @@
 Linear Algebra
 Calculus
 Statistics
+Numerical methods
+Advanced Calculus
